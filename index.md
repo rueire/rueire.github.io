@@ -13,7 +13,7 @@ Currently under development.<br>
 <br>
 <img width="500" alt="image" src="https://github.com/user-attachments/assets/bfa40ee8-7128-44c0-a017-30b2a476ef2b" />
 <img width="200" alt="image" src="https://github.com/user-attachments/assets/fd85fdea-002a-44d7-a78b-ca06bdd72ed5" /> <br>
-<img width="500" height="820" alt="image" src="https://github.com/user-attachments/assets/6527266e-50ec-4323-9584-f1518ee3544f" />
+<img width="500" alt="image" src="https://github.com/user-attachments/assets/6527266e-50ec-4323-9584-f1518ee3544f" />
 
 <br>
 <br>
