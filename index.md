@@ -1,4 +1,4 @@
-# Introduction to my Projects
+# My Projects
 
 Hi, I'm Reea. I am Information Techonology BBA Student. <br>
 In my studies I've focused on visuals aspects of programming (CSS, HTML) as well as usability and accessibility.<br>
