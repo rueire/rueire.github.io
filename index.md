@@ -1,8 +1,8 @@
 # My Projects
 
-Hi, I'm Reea. I am Information Techonology BBA Student. <br>
-In my studies I've focused on visuals aspects of programming (CSS, HTML) as well as usability and accessibility.<br>
-I'm mostly interested in learning more about Data Engineering, and possibly Data Architecture.
+Hi, I'm Reea. I am Business Information Systems Student. <br>
+In my studies I've focused on visual aspects of programming (CSS, HTML) as well as usability and accessibility.<br>
+I'm mostly interested in learning more about Data Engineering, Software Development.
 
 ## Projects
 
