@@ -21,6 +21,10 @@ Currently under development. This is local project for one main user only. <br>
 <img width="200" alt="image" src="https://github.com/user-attachments/assets/09ad380d-ede8-4725-abf6-7db7e6f31a1b" />
 <img width="600" alt="image" src="https://github.com/user-attachments/assets/cf9b134f-2134-43b5-b996-58627dae745b" /> <br><br>
 
+### Weather pipeline
+ETL project to learn ETL and Typescript <br>
+▶️ Repository: [https://github.com/rueire/Weather-pipeline] <br><br>
+
 ### Text Adventure Game
 School Project: Python game, created using fundamentals of Python.<br>
 Two versions: original from 2024, and one updated in 2025.<br>
