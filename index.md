@@ -24,6 +24,10 @@ Currently under development. This is local project for one main user only. <br>
 ### Weather pipeline
 ETL project to learn ETL and Typescript <br>
 ▶️ Repository: [https://github.com/rueire/Weather-pipeline] <br><br>
+### Weather pipeline2
+Simple ETL project in python<br>
+pipelines for whole week and next day's temperatures<br>
+▶️ Repository: [https://github.com/rueire/Weather-pipeline2] <br><br>
 
 ### Text Adventure Game
 School Project: Python game, created using fundamentals of Python.<br>
