@@ -2,7 +2,8 @@
 
 Hi, I'm Reea. I am Business Information Systems Student. <br>
 In my studies I've focused on visual aspects of programming (CSS, HTML) as well as usability and accessibility.<br>
-I'm mostly interested in learning more about Data Engineering, Software Development.
+I'm mostly interested in learning more about Data Engineering side of things—extracting, cleaning, and transforming data to make it usable for analysis and decision-making.<br>
+Software Development is what I am most familiar with, and would like to learn more. I am also interested in cloud computing, although my knowledge is mostly theoretical at the moment.<br>
 
 ## Projects
 
