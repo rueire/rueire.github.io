@@ -25,7 +25,7 @@ Currently under development. This is local project for one main user only. <br>
 ### Digimon Data Warehouse
 Very much work in progress<br>
 Data Project where goal is to extract Digimon data (free api), transform it into a structured warehouse model.<br>
-Using Python (pandas) and CSV for storage.<br>
+Using Python (pandas) for language and tools, and CSV for storage.<br>
 Intended to include data quality checks and a planned dashboard for visualization.<br>
 ▶️ Repository: [Digimon Warehouse](https://github.com/rueire/Digimon-Warehouse/)<br><br>
 
