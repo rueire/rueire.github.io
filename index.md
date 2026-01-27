@@ -22,6 +22,13 @@ Currently under development. This is local project for one main user only. <br>
 <img width="200" alt="image" src="https://github.com/user-attachments/assets/09ad380d-ede8-4725-abf6-7db7e6f31a1b" />
 <img width="600" alt="image" src="https://github.com/user-attachments/assets/cf9b134f-2134-43b5-b996-58627dae745b" /> <br><br>
 
+### Digimon Data Warehouse
+Very much work in progress<br>
+Data Project where goal is to extract Digimon data (free api), transform it into a structured warehouse model.<br>
+Using Python (pandas) and CSV for storage.<br>
+Intended to include data quality checks and a planned dashboard for visualization.<br>
+▶️ Repository: [Digimon Warehouse](https://github.com/rueire/Digimon-Warehouse/)<br><br>
+
 ### Weather pipeline
 ETL project to learn ETL and Typescript <br>
 ▶️ Repository: [Weather pipeline TS](https://github.com/rueire/Weather-pipeline) <br><br>
