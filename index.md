@@ -8,6 +8,7 @@ Software Development is what I am most familiar with, and would like to learn mo
 ## Projects
 
 ### Personal Library:
+work in progress<br>
 A full-stack application built with a MariaDB SQL database, a Python backend & analysis, and a React frontend <br>
 Currently under development. This is local project for one main user only. <br>
 - User should be able to view and filter the books in database
