@@ -20,8 +20,8 @@ Currently under development. This is local project for one main user only. <br>
 
 <img width="500" alt="image" src="https://github.com/user-attachments/assets/bfa40ee8-7128-44c0-a017-30b2a476ef2b" />
 <img width="200" alt="image" src="https://github.com/user-attachments/assets/fd85fdea-002a-44d7-a78b-ca06bdd72ed5" /><br>
-<img width="200" alt="image" src="https://github.com/user-attachments/assets/09ad380d-ede8-4725-abf6-7db7e6f31a1b" />
-<img width="600" alt="image" src="https://github.com/user-attachments/assets/cf9b134f-2134-43b5-b996-58627dae745b" /> <br><br>
+<img width="200" alt="image" src="https://github.com/user-attachments/assets/0523de75-1ffd-45e1-bbc8-ae0698a60ee7" /><br><br>
+
 
 ### Digimon Data Warehouse
 Very much work in progress<br>
