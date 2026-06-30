@@ -7,6 +7,12 @@ Software Development is what I am most familiar with, and would like to learn mo
 
 ## Projects
 
+### AI impact analysis report
+<b>Note!</b> Report is in Finnish.<br>
+School report that examines the relationships between the adoption of artificial intelligence<br>
+and the number of jobs across different industries, financial performance, and consumer confidence using quantitative methods.<br><br>
+▶️ Repository: [AI Impact Analysis Repository](https://github.com/rueire/Data-Analysis/tree/main)
+
 ### Personal Library:
 work in progress<br>
 A full-stack application built with a MariaDB SQL database, a Python backend & analysis, and a React frontend <br>
